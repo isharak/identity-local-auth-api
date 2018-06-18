@@ -123,7 +123,7 @@ definitions:
       password:
        type: string
       sessionDataKey:
-       typr:string
+       type: string
        
 #-----------------------------------------------------    
 # Authentication success response  object
